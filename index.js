@@ -10,5 +10,7 @@ app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
   console.log(`Example app listening on contributer ${port}`)
   console.log(`Example app listening on contributer change ${port}`)
+  console.log(`Example app listening on contributer change first code ${port}`)
+  console.log(`Example app listening on contributer change first code ${port}`)
  
 })
